@@ -15,12 +15,12 @@
 
 > QR코드를 AI 활용해서 꾸미기
 
-![Alt text](image.png)
+![image](assets/image1.png)
 
 > 웹툰 번역 OCR 인공지능 만들기
 
-![image](https://github.com/git-ThLee/AIFFEL_Online_5th/assets/55564114/4d302063-255b-47b7-a446-4fd645b19d12)
+![image](assets/image2.png)
 
 > AI 웹앱 만들기 완벽 튜토리얼
 
-![Alt text](image-2.png)
+![image](assets/image3.png)
