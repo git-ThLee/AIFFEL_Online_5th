@@ -1,6 +1,6 @@
 # AIFFEL Campus Online 5th Code Peer Review Templete
 - 코더 : 이태훈
-- 리뷰어 : 윤상현
+- 리뷰어 : 윤상현
 
 
 # PRT(PeerReviewTemplate) 
