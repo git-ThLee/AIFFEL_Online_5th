@@ -13,7 +13,7 @@ quest_11_Going_Deeper(NLP)
 
 
 # AIFFEL Campus Online 5th Code Peer Review Templete
-- 코더 : 이태훈
+- 코더 : 이태훈(서포터), 코더(홍서이)
 - 리뷰어 : 본인의 이름을 작성하세요.
 
 
